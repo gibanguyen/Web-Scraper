@@ -14,8 +14,8 @@ This project is a simple web scraping tool built using Python. The tool fetches 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-scraper.git
-   cd web-scraper
+   git clone https://github.com/gibanguyen/Web-Scraper.git
+   cd Web-Scraper
    ```
 
 2. Install the required Python libraries:
